@@ -23,6 +23,11 @@ $ chocolatey install cygwin
 $ brew install tmux
 ```
 
+Build from sources
+```aidl
+
+```
+
 # Configure
 
 ```
